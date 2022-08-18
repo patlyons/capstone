@@ -1,0 +1,11 @@
+movie_name,production_year,movie_odid,production_budget,domestic_box_office,international_box_office,rating,creative_type,source,production_method,genre,sequel,running_time
+The Dark Knight,2008,20100,185000000,533720947,468275260,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,152.0
+Iron Man,2008,220100,186000000,318604126,266567421,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Adventure,0.0,126.0
+Indiana Jones and the Kingdom of the Crystal Skull,2008,240100,185000000,317101119,469534294,PG-13,Historical Fiction,Original Screenplay,Live Action,Adventure,1.0,123.0
+Hancock,2008,670100,150000000,227946274,396287998,PG-13,Super Hero,Original Screenplay,Live Action,Action,0.0,92.0
+WALL-E,2008,700100,180000000,223808164,308699861,G,Science Fiction,Original Screenplay,Digital Animation,Adventure,0.0,100.0
+Kung Fu Panda,2008,790100,130000000,215434591,416475940,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0.0,91.0
+Twilight,2008,1040100,37000000,192769854,209510305,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Drama,0.0,121.0
+Madagascar: Escape 2 Africa,2008,1230100,150000000,180174880,419505894,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,1.0,89.0
+Quantum of Solace,2008,1460100,230000000,169368427,422323651,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,106.0
+Horton Hears a Who,2008,1750100,85000000,154529439,144948447,G,Fantasy,Based on Fiction Book/Short Story,Digital Animation,Adventure,0.0,88.0

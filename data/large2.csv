@@ -1,0 +1,11 @@
+movie_name,production_year,movie_odid,production_budget,domestic_box_office,international_box_office,rating,creative_type,source,production_method,genre,sequel,running_time
+The Dark Knight Rises,2012,140240100,275000000,448139099,636300000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,164.0
+Iron Man 3,2012,146800100,200000000,408992272,806400000,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,130.0
+Skyfall,2012,153090100,200000000,304360277,806166704,PG-13,Contemporary Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,143.0
+The Hobbit: An Unexpected Journey,2012,126540100,250000000,303003568,714000000,PG-13,Fantasy,Based on Fiction Book/Short Story,Animation/Live Action,Adventure,1.0,169.0
+"The Twilight Saga: Breaking Dawn, Part 2",2012,139990100,136200000,292324737,537400000,PG-13,Fantasy,Based on Fiction Book/Short Story,Live Action,Drama,1.0,115.0
+Man of Steel,2012,125160100,225000000,291045518,376954000,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,142.0
+Gravity,2012,144130100,110000000,274092705,419605968,PG-13,Contemporary Fiction,Original Screenplay,Live Action,Thriller/Suspense,0.0,91.0
+Monsters University,2012,139860100,200000000,268488329,475100000,G,Kids Fiction,Original Screenplay,Digital Animation,Adventure,1.0,102.0
+Fast and Furious 6,2012,163420100,160000000,238679850,550620594,PG-13,Contemporary Fiction,Based on Factual Book/Article,Live Action,Action,1.0,130.0
+Brave,2012,124130100,185000000,237282182,317324350,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,0.0,93.0

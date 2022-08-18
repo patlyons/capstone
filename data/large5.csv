@@ -1,0 +1,11 @@
+movie_name,production_year,movie_odid,production_budget,domestic_box_office,international_box_office,rating,creative_type,source,production_method,genre,sequel,running_time
+Black Panther,2017,140380100,200000000,700059566,648198658,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,120.0
+Avengers: Infinity War,2017,202830100,300000000,678815482,1369982200,PG-13,Super Hero,Based on Comic/Graphic Novel,Animation/Live Action,Action,1.0,156.0
+Star Wars Ep. VIII: The Last Jedi,2017,223080100,317000000,620181382,696540365,PG-13,Science Fiction,Original Screenplay,Live Action,Adventure,1.0,150.0
+Incredibles 2,2017,226520100,200000000,608581744,633950692,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,1.0,118.0
+Jurassic World: Fallen Kingdom,2017,237380100,170000000,417719760,888053039,PG-13,Science Fiction,Based on Fiction Book/Short Story,Live Action,Action,1.0,128.0
+It,2017,264810100,35000000,327481748,369976221,R,Historical Fiction,Remake,Live Action,Horror,0.0,135.0
+Deadpool 2,2017,258830100,110000000,324591735,462088822,R,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,119.0
+Thor: Ragnarok,2017,218480100,180000000,315058289,531921735,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,1.0,130.0
+Despicable Me 3,2017,202250100,75000000,264624300,770198073,PG,Kids Fiction,Original Screenplay,Digital Animation,Adventure,1.0,90.0
+Justice League,2017,213080100,300000000,229024295,426920914,PG-13,Super Hero,Based on Comic/Graphic Novel,Live Action,Action,0.0,121.0
