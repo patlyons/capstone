@@ -1,15 +1,51 @@
-# capstone
-Who Is the The Greatest Batman?
-For Nearly two and a half decades Hollywood has been reinventing the iconic comic book character for the big screen. Clearly, audiences are captivated by the Batman and they continue to be willing to pay to see a new vision for the masked crusader. Over the course of 10 movies, there have been six different actors and 5 different directors who have attempted to all out do each other. So.. who did it best?
+# Capstone
+## Who Is the The Greatest Batman?
+For Nearly three and a half decades Hollywood has been reinventing the iconic comic book character for the big screen. Clearly, audiences are captivated by the Batman and they continue to be willing to go see a new vision for the caped crusader. Over the course of 10 movies, there have been six different actors and 5 different directors who have attempted to all out-do each other. So.. who did it best?
 
-Using Data from IMDB.com my analysis will will take a look at the rating and the amount of money each film has generated. Additionally, I will be using data from the Academy Awards website in order to take a look at the accolades for the actors directors of each Batman movie. I will be looking to answer some of the following questions
+## Data
+Using Data from IMDB, the Academy Awards website, and Opus Data my analysis will will take a look at the ratings, the awards, and the amount of money each film has generated.
 
-Which stand alone batman movie has the highest rating?
-Which recurring batman actor has the highest average rating?
-Which batman Has the highest gross, net, and opening weekend?
 
-Which actor & director has the most Oscars?
-Did these actors and directors win their accolades before or after they made a batman movie?
-Did, any of the actors or directors win for their version of batman?
+links
 
-by comparing the rating scores, amount of money generated, and number of awards that each batman actor and director brings to the table for their movies, i will be able to determine once and for all.. who is the best Batman?
+https://www.oscars.org/
+
+https://www.imdb.com/
+
+https://www.opusdata.com/
+## Questions Being Asked
+
+How much does each actor's movie cost Vs  how much did it gross?
+
+Who has the biggest opening weekend and how good was the movie?
+
+Which director helps creates the best Batman?
+
+Who nets the highest adjusted for inflation ?
+
+Which actors and directors have the most Oscar Nominations?
+
+Was Batman a good career choice for those actors and directors?
+
+## Goals
+By comparing the rating scores, amount of money generated, and number of awards that each batman actor and director brings to the table for their movies, I will be able to determine once and for all.. who is the best Batman?
+
+## Adjusting For Inflation
+
+I used data obtained from the U.S Bureau of Labor Statistics to adjust for inflation with the formula below. CPI stands for Consumer Price Index.
+
+(Old Value * Current CPI)/ Old CPI
+
+https://data.bls.gov/pdq/SurveyOutputServlet
+
+## Tools Used
+
+Python,
+Excel,
+Power BI,
+PowerPoint
+
+
+## Power BI Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiMjZlOGJlZWEtZGU0MC00ODdhLTg2ZDUtNmJmOGZjMGZlYjZhIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection1bdd04be37d5e110810d
